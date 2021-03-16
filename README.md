@@ -11,6 +11,12 @@ To run the example project, clone the repo, and run `pod install` from the Examp
 
 ## Requirements
 
+Privacy - Camera Usage Description  
+Privacy - Microphone Usage Description  
+Privacy - Photo Library Additions Usage Description  
+Privacy - Photo Library Usage Description  
+Privacy - Location When In Use Usage Description
+
 ## Installation
 
 TKUISDK_iOS is available through [CocoaPods](https://cocoapods.org). To install
@@ -22,7 +28,7 @@ pod 'TKUISDK_iOS'
 
 ## Author
 
-tksdk@talk-cloud.com, xlangzhao@sina.com
+tksdk@talk-cloud.com
 
 ## License
 
