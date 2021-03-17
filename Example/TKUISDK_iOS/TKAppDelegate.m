@@ -17,7 +17,7 @@
 {
     
     // 使用拓课云登录界面
-//    [[TKAPPSetConfig shareInstance] setLoginViewForRootViewController:self.window];
+    [[TKAPPSetConfig shareInstance] setLoginViewForRootViewController:self.window];
 
     // 初始化 bugly 崩溃收集
     [[TKAPPSetConfig shareInstance] setupAPPWithBuglyID:@""];
