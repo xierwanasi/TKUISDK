@@ -367,17 +367,11 @@
 			);
 			inputPaths = (
 				"${PODS_ROOT}/Target Support Files/Pods-TKUISDK_iOS_Example/Pods-TKUISDK_iOS_Example-resources.sh",
-				"${PODS_ROOT}/../../TKUISDK_iOS/Bundles/TKEmoji.bundle",
-				"${PODS_ROOT}/../../TKUISDK_iOS/Bundles/TKImageRe.bundle",
 				"${PODS_ROOT}/../../TKUISDK_iOS/Bundles/TKResources.bundle",
-				"${PODS_ROOT}/../../TKUISDK_iOS/Bundles/TKWhiteBoardResources.bundle",
 			);
 			name = "[CP] Copy Pods Resources";
 			outputPaths = (
-				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/TKEmoji.bundle",
-				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/TKImageRe.bundle",
 				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/TKResources.bundle",
-				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/TKWhiteBoardResources.bundle",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;

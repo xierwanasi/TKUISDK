@@ -569,6 +569,7 @@ Please ask all users update to the latest version as soon as possible;";
 "Prompt.LeaveClassEarlyPrompt" = "It has not reached the preset end-class time, are you sure to get out of class early?";
 
 "ClassEndAlter.Title"    = "Reminder";
+
 "ClassEndAlter.Confirm"  = "Ok got it";
 "ClassBeginAlter.Title"    = "Class Reminder";
 "ClassEndAlter.Notice"   = "It's time for the end of the course, Class will end in 10 minutes. Please be prepared!";

@@ -13,12 +13,12 @@
 			buildPhases = (
 			);
 			dependencies = (
-				D0DEE707B3F2C9E4ED242E4FD5EC317D /* PBXTargetDependency */,
-				C207D7C21280C87B8E90C7079CA7A1D7 /* PBXTargetDependency */,
-				A5B17DFC6C1AF26551322C652992A975 /* PBXTargetDependency */,
-				0C5CA5BBF7FCC9B1A1AF8F6BF71CBBEB /* PBXTargetDependency */,
-				6E705B6E36958B8701BE63781447E946 /* PBXTargetDependency */,
-				50C9D2E06D0534D2BE81F5F28DD03F36 /* PBXTargetDependency */,
+				E5E46AFF545C090513D2152C0F449C14 /* PBXTargetDependency */,
+				CB649B78C631EA876D97BE7A12A0B54C /* PBXTargetDependency */,
+				1A64B842CF14A6764BE37FDA6F25DF26 /* PBXTargetDependency */,
+				E57BF71936527A84B68AE7AB9F095236 /* PBXTargetDependency */,
+				8C85930A5F56A1D21FD092B37DCB46F4 /* PBXTargetDependency */,
+				7812FEC353754CFA2C4AEA5C8310A725 /* PBXTargetDependency */,
 			);
 			name = TKUISDK_iOS;
 		};
@@ -33,7 +33,7 @@
 		};
 		6F6B630FA5213AB083E7CEF1F986FE44 /* UMCCommon */ = {
 			isa = PBXAggregateTarget;
-			buildConfigurationList = BE2403AC011E8873286F496FB08C7D0C /* Build configuration list for PBXAggregateTarget "UMCCommon" */;
+			buildConfigurationList = B925A629CE0744A04719D98366FA0807 /* Build configuration list for PBXAggregateTarget "UMCCommon" */;
 			buildPhases = (
 			);
 			dependencies = (
@@ -214,105 +214,105 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		3224BCCC464D66D43E8FF0576B30F399 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = 9A64693138006328B382009763F5C580;
-			remoteInfo = SakuraKit;
-		};
-		47AF8BB402A7F7FB06221312BAAB12E0 /* PBXContainerItemProxy */ = {
+		0FB83FE47A978E95D5A4DD5F4636A1F4 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 4A68CFD979D413A619DF631BB121D98F;
 			remoteInfo = Bugly;
 		};
-		48583E8C433140367E25857BFC467D01 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = 4A68CFD979D413A619DF631BB121D98F;
-			remoteInfo = Bugly;
-		};
-		67CADED3E74B04FE66E54DC8610EA7CF /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = 6F6B630FA5213AB083E7CEF1F986FE44;
-			remoteInfo = UMCCommon;
-		};
-		6FAD7D630B7F7FD343B6AD71F1FB1983 /* PBXContainerItemProxy */ = {
+		3DE0D2959DBBB10B140E13663B654D45 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = F60E38364AFF5E1349FF07415B944396;
 			remoteInfo = SSZipArchive;
 		};
-		739B7123883E52D092BA172F4E2E8550 /* PBXContainerItemProxy */ = {
+		4FE281FEE6FE061CF68F05BD14E7128B /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 48EADA0AC127FBF90B5C60EDFA73B53E;
 			remoteInfo = TKUISDK_iOS;
 		};
-		78C25ACBA6D55DEAF33F27C4189D2537 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = F60E38364AFF5E1349FF07415B944396;
-			remoteInfo = SSZipArchive;
-		};
-		8777C063444DA62CD491A3E6F1FB5AFC /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = DDF1CF57B65F46C60F28DBAE4D56D370;
-			remoteInfo = "Pods-TKUISDK_iOS_Example";
-		};
-		A92A7A56EAE5CC0D7A7AE72CD29E43A3 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = 55AF53E6C77A10ED4985E04D74A8878E;
-			remoteInfo = Masonry;
-		};
-		AB905FB46A44997298D17D48FEB2EA3E /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = F60E38364AFF5E1349FF07415B944396;
-			remoteInfo = SSZipArchive;
-		};
-		B1FD9014E7D63EE24D670AE95EAE872E /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = 6868056D761E163D10FDAF8CF1C4D9B8;
-			remoteInfo = MJRefresh;
-		};
-		BA4817E25D42171AF10C31A70B313EC8 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = 6868056D761E163D10FDAF8CF1C4D9B8;
-			remoteInfo = MJRefresh;
-		};
-		D419185DB18A889288F343881F79290D /* PBXContainerItemProxy */ = {
+		6DEA5D87E41D669FD6F786EA3785C9E6 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 6F6B630FA5213AB083E7CEF1F986FE44;
 			remoteInfo = UMCCommon;
 		};
-		F04C046AB7283D6F8C0D37C4CB8D2B68 /* PBXContainerItemProxy */ = {
+		75109476AC416448A4FCBD4A0349CB72 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 6868056D761E163D10FDAF8CF1C4D9B8;
+			remoteInfo = MJRefresh;
+		};
+		791FA0D6E678E64628767DE1A95091FE /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 6F6B630FA5213AB083E7CEF1F986FE44;
+			remoteInfo = UMCCommon;
+		};
+		84AD01D3A4F539D4C713F24D9F445D29 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 9A64693138006328B382009763F5C580;
 			remoteInfo = SakuraKit;
 		};
-		FEF1BA6316065404B0F28B9B6B783940 /* PBXContainerItemProxy */ = {
+		867811345934E28410A5440643D9AF5C /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = DDF1CF57B65F46C60F28DBAE4D56D370;
+			remoteInfo = "Pods-TKUISDK_iOS_Example";
+		};
+		98CEF53195449D7558F4D1D29B5D495B /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 4A68CFD979D413A619DF631BB121D98F;
+			remoteInfo = Bugly;
+		};
+		B638A6D5C3404523D5275689EE299747 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 55AF53E6C77A10ED4985E04D74A8878E;
+			remoteInfo = Masonry;
+		};
+		C2127AE7EE64775852A2CB36FC99CB6C /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = F60E38364AFF5E1349FF07415B944396;
+			remoteInfo = SSZipArchive;
+		};
+		C51408FCC90C0FE53DA8A9DF02484185 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = F60E38364AFF5E1349FF07415B944396;
+			remoteInfo = SSZipArchive;
+		};
+		D70FAA57F6974116FE1AF895810918C8 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 9A64693138006328B382009763F5C580;
+			remoteInfo = SakuraKit;
+		};
+		EC4018FBD4ACBAF1C520629442F335BB /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 6868056D761E163D10FDAF8CF1C4D9B8;
+			remoteInfo = MJRefresh;
+		};
+		FA9010CDE5534883AFCCA918AFA99065 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
 			proxyType = 1;
@@ -328,8 +328,6 @@
 		03F2DFB13ABACB8E0547D49251EAD514 /* MJRefreshConst.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = MJRefreshConst.m; path = MJRefresh/MJRefreshConst.m; sourceTree = "<group>"; };
 		043AB81B55AA47C402A2263BED5E2128 /* Pods-TKUISDK_iOS_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-TKUISDK_iOS_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		081DFAD811259F0CEFE8AD174470E9C8 /* SakuraKit.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = SakuraKit.modulemap; sourceTree = "<group>"; };
-		0940EC0A0FFC2D261C76AEAA7F74B413 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
-		096A880BD27BC16FDCFA5C6BD239379D /* TKEmoji.bundle */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "wrapper.plug-in"; name = TKEmoji.bundle; path = TKUISDK_iOS/Bundles/TKEmoji.bundle; sourceTree = "<group>"; };
 		0A0ABF70BAD1F5935251DE765D9CC440 /* TXSakuraShapeLayer.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = TXSakuraShapeLayer.m; path = SakuraKit/Components/TXSakuraShapeLayer.m; sourceTree = "<group>"; };
 		0B764FE7670357FF0C9777F4BF9B5102 /* MJRefresh.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = MJRefresh.debug.xcconfig; sourceTree = "<group>"; };
 		0F127EF105E68AD1089BC6A1E99BEE42 /* MASCompositeConstraint.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = MASCompositeConstraint.m; path = Masonry/MASCompositeConstraint.m; sourceTree = "<group>"; };
@@ -362,14 +360,15 @@
 		2BB57A5C5B109DBB91F370C7017A1F38 /* TXSakura.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = TXSakura.h; path = SakuraKit/Base/TXSakura.h; sourceTree = "<group>"; };
 		2D64D6AAB34697495793E30C9C2B2EF0 /* minishared.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = minishared.h; path = SSZipArchive/minizip/minishared.h; sourceTree = "<group>"; };
 		2F1F495F7A2114692D209C370679EF29 /* MJRefreshBackFooter.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = MJRefreshBackFooter.m; path = MJRefresh/Base/MJRefreshBackFooter.m; sourceTree = "<group>"; };
+		316FA8ABAE43DB4AAD2B8497A9555CCF /* TKUISDK_iOS.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = TKUISDK_iOS.debug.xcconfig; sourceTree = "<group>"; };
 		319CE73B9E1EEFBEC23C5214200F613D /* Masonry-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Masonry-umbrella.h"; sourceTree = "<group>"; };
 		338FB4507054B1E19DB30EBAB52E31E8 /* MASConstraintMaker.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MASConstraintMaker.h; path = Masonry/MASConstraintMaker.h; sourceTree = "<group>"; };
+		34967BBC24BB657D7BC2E40A876D0A60 /* TKWhiteBoard.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = TKWhiteBoard.framework; path = TKUISDK_iOS/Frameworks/TKWhiteBoard.framework; sourceTree = "<group>"; };
 		34E14FF7C59BE45FF64BCE9FB1884720 /* TXSakuraKit.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = TXSakuraKit.h; path = SakuraKit/TXSakuraKit.h; sourceTree = "<group>"; };
 		374889A09D129E677640E6E4073E30F4 /* aeskey.c */ = {isa = PBXFileReference; includeInIndex = 1; name = aeskey.c; path = SSZipArchive/minizip/aes/aeskey.c; sourceTree = "<group>"; };
 		3784B3857F4A440F4030A170104E1AB1 /* TXSakuraManager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = TXSakuraManager.h; path = SakuraKit/Base/TXSakuraManager.h; sourceTree = "<group>"; };
 		380F5A26441815B71EE55EB72EBC0A01 /* SSZipArchive-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "SSZipArchive-umbrella.h"; sourceTree = "<group>"; };
 		3926A1419A19531D67C88696C9220DCC /* MASConstraint.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = MASConstraint.m; path = Masonry/MASConstraint.m; sourceTree = "<group>"; };
-		393A57C07B4FD6788896353794622BBB /* TKUISDK.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = TKUISDK.framework; path = TKUISDK_iOS/Frameworks/TKUISDK.framework; sourceTree = "<group>"; };
 		3AB5408B84956175F8CE1BF2769B170E /* ioapi_mem.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = ioapi_mem.h; path = SSZipArchive/minizip/ioapi_mem.h; sourceTree = "<group>"; };
 		3B69D06A8DD0643C48D3AEDA92F45A21 /* NSArray+MASAdditions.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "NSArray+MASAdditions.h"; path = "Masonry/NSArray+MASAdditions.h"; sourceTree = "<group>"; };
 		3BAA7D1D4B9990ACE4166D2A6A937BE8 /* prng.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = prng.h; path = SSZipArchive/minizip/aes/prng.h; sourceTree = "<group>"; };
@@ -380,7 +379,7 @@
 		416B0DB8D9AF933016326F1A06F0B4F6 /* MASViewConstraint.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MASViewConstraint.h; path = Masonry/MASViewConstraint.h; sourceTree = "<group>"; };
 		417807B51898394AFADD256BDFE68843 /* View+MASAdditions.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "View+MASAdditions.m"; path = "Masonry/View+MASAdditions.m"; sourceTree = "<group>"; };
 		422E5B1B11ECCEC7C03C32E9F12B0B10 /* TXSakuraSlider.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = TXSakuraSlider.h; path = SakuraKit/Components/TXSakuraSlider.h; sourceTree = "<group>"; };
-		42E840F4133F56C3C137FF69FB3BB196 /* TKWhiteBoardResources.bundle */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "wrapper.plug-in"; name = TKWhiteBoardResources.bundle; path = TKUISDK_iOS/Bundles/TKWhiteBoardResources.bundle; sourceTree = "<group>"; };
+		4574FE9D786421614DCACACB28A546E9 /* TKUISDK_iOS.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = TKUISDK_iOS.release.xcconfig; sourceTree = "<group>"; };
 		4680C83D23C916F27B3AB9BBC7EB26CA /* TXSakuraImageView.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = TXSakuraImageView.m; path = SakuraKit/Components/TXSakuraImageView.m; sourceTree = "<group>"; };
 		48E82265767940582D76A36FEF047C61 /* Masonry.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = Masonry.debug.xcconfig; sourceTree = "<group>"; };
 		498E8B0E2B8D4CA2054F389FDDA45B9B /* minishared.c */ = {isa = PBXFileReference; includeInIndex = 1; name = minishared.c; path = SSZipArchive/minizip/minishared.c; sourceTree = "<group>"; };
@@ -388,12 +387,11 @@
 		49A4ABAAFE9C38EDD877A75D4C81C159 /* SSZipArchive.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = SSZipArchive.m; path = SSZipArchive/SSZipArchive.m; sourceTree = "<group>"; };
 		4B0C3DDF682ADFF5C4D4CCD1AEF7B37A /* MJRefreshAutoNormalFooter.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = MJRefreshAutoNormalFooter.m; path = MJRefresh/Custom/Footer/Auto/MJRefreshAutoNormalFooter.m; sourceTree = "<group>"; };
 		4B288938843EC17BE90B46C303A6D154 /* ioapi_buf.c */ = {isa = PBXFileReference; includeInIndex = 1; name = ioapi_buf.c; path = SSZipArchive/minizip/ioapi_buf.c; sourceTree = "<group>"; };
-		4D872391E7853D0C41D03DD34E3648E1 /* TKImageRe.bundle */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "wrapper.plug-in"; name = TKImageRe.bundle; path = TKUISDK_iOS/Bundles/TKImageRe.bundle; sourceTree = "<group>"; };
 		4DE693D8DF849F65D90854B538B6B42D /* SakuraKit-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "SakuraKit-dummy.m"; sourceTree = "<group>"; };
-		4E04493229E263114BF462A80AD33BA7 /* TKResources.bundle */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "wrapper.plug-in"; name = TKResources.bundle; path = TKUISDK_iOS/Bundles/TKResources.bundle; sourceTree = "<group>"; };
 		4EEFFA0E2B1D85D34BE8C894ECD62BEB /* UIView+MJExtension.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIView+MJExtension.h"; path = "MJRefresh/UIView+MJExtension.h"; sourceTree = "<group>"; };
 		4F7381A06E355529C6BC54688F2B2DF3 /* NSArray+MASShorthandAdditions.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "NSArray+MASShorthandAdditions.h"; path = "Masonry/NSArray+MASShorthandAdditions.h"; sourceTree = "<group>"; };
-		512D94EA0B531803109188D738FF3FF7 /* TKIJKMediaFramework.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = TKIJKMediaFramework.framework; path = TKUISDK_iOS/Frameworks/TKIJKMediaFramework.framework; sourceTree = "<group>"; };
+		4F984F6AB6F8201CC3D4F6C7DD6D93D2 /* TKUISDK.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = TKUISDK.framework; path = TKUISDK_iOS/Frameworks/TKUISDK.framework; sourceTree = "<group>"; };
+		4FA69E0108BE710BD50BF48DCA6ABE67 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
 		51AEB8A5865B31A6125F622D1297890E /* TXSakuraController.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = TXSakuraController.m; path = SakuraKit/Components/TXSakuraController.m; sourceTree = "<group>"; };
 		523C26282A2438763136791835FCDBBC /* UIView+MJExtension.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIView+MJExtension.m"; path = "MJRefresh/UIView+MJExtension.m"; sourceTree = "<group>"; };
 		526CEA80CABE085EA1081FC25C5CD416 /* TXSakuraTextComponent.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = TXSakuraTextComponent.h; path = SakuraKit/Components/TXSakuraTextComponent.h; sourceTree = "<group>"; };
@@ -407,12 +405,12 @@
 		5BD68E6A714EBEEE8BB84A1AD88F28FB /* SSZipArchive.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = SSZipArchive.h; path = SSZipArchive/SSZipArchive.h; sourceTree = "<group>"; };
 		5C6EF3AE049601D523B55C909C01CA3B /* MASLayoutConstraint.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MASLayoutConstraint.h; path = Masonry/MASLayoutConstraint.h; sourceTree = "<group>"; };
 		5D6E07036CC4E89CB37F0B01B1769C51 /* Bugly.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = Bugly.framework; sourceTree = "<group>"; };
-		62304C95245A78CBD2770EE6E4DF2C1D /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
 		636927DEB23F08532A96A00F9141234F /* NSBundle+MJRefresh.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "NSBundle+MJRefresh.m"; path = "MJRefresh/NSBundle+MJRefresh.m"; sourceTree = "<group>"; };
 		656E9142B44AEF1405744501A6043F18 /* MJRefreshGifHeader.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = MJRefreshGifHeader.m; path = MJRefresh/Custom/Header/MJRefreshGifHeader.m; sourceTree = "<group>"; };
 		65703CF14AA48148AC1C8FD8AFDC3988 /* Bugly.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = Bugly.release.xcconfig; sourceTree = "<group>"; };
 		65D59535EC6540B990C1341D45995380 /* TXSakuraLayer.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = TXSakuraLayer.m; path = SakuraKit/Components/TXSakuraLayer.m; sourceTree = "<group>"; };
 		6860A1C4549DD78C7D801CE74346B995 /* brg_types.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = brg_types.h; path = SSZipArchive/minizip/aes/brg_types.h; sourceTree = "<group>"; };
+		694541337E3909461EB6E7F9AB4286C8 /* TKResources.bundle */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "wrapper.plug-in"; name = TKResources.bundle; path = TKUISDK_iOS/Bundles/TKResources.bundle; sourceTree = "<group>"; };
 		69B35D5DFC50750DF535306BCD0C3C32 /* TXSakuraApplication.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = TXSakuraApplication.m; path = SakuraKit/Components/TXSakuraApplication.m; sourceTree = "<group>"; };
 		69EAA9C4DB664EB2D469B9965F8F5094 /* View+MASShorthandAdditions.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "View+MASShorthandAdditions.h"; path = "Masonry/View+MASShorthandAdditions.h"; sourceTree = "<group>"; };
 		6A1617752EA4AB0E9E254936C007C38F /* UMCCommon.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = UMCCommon.release.xcconfig; sourceTree = "<group>"; };
@@ -457,6 +455,7 @@
 		9D35ED5C043CF19C8FCD105643F38EA9 /* Pods-TKUISDK_iOS_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-TKUISDK_iOS_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		9F6951D57539D734656B3815F8EE6BD4 /* MJRefreshComponent.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MJRefreshComponent.h; path = MJRefresh/Base/MJRefreshComponent.h; sourceTree = "<group>"; };
+		9F969F08F1C0CEE901DF1BB2A05BA185 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
 		A057BAD1077876BC5D3D2EEA21541722 /* MJRefreshNormalHeader.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = MJRefreshNormalHeader.m; path = MJRefresh/Custom/Header/MJRefreshNormalHeader.m; sourceTree = "<group>"; };
 		A287B57EE3210659CF4503032A01809F /* TXSakuraManager.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = TXSakuraManager.m; path = SakuraKit/Base/TXSakuraManager.m; sourceTree = "<group>"; };
 		A376C152C83900364228666B7362503D /* TXSakuraPageControl.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = TXSakuraPageControl.m; path = SakuraKit/Components/TXSakuraPageControl.m; sourceTree = "<group>"; };
@@ -472,12 +471,12 @@
 		ADFD259F872677D50DC4DEAE763AEE38 /* SakuraKit-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "SakuraKit-Info.plist"; sourceTree = "<group>"; };
 		AF7BD1C0C31EA77B66C76BEC8F7E7D30 /* Pods-TKUISDK_iOS_Tests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-TKUISDK_iOS_Tests-Info.plist"; sourceTree = "<group>"; };
 		B0B097E09BF56192685B094C168E9749 /* Pods-TKUISDK_iOS_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-TKUISDK_iOS_Example-dummy.m"; sourceTree = "<group>"; };
+		B26341E306C2F7D46CFE41C7F8C9E20C /* TKIJKMediaFramework.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = TKIJKMediaFramework.framework; path = TKUISDK_iOS/Frameworks/TKIJKMediaFramework.framework; sourceTree = "<group>"; };
 		B2ECB147427F553890D8DD97B72A5E62 /* pwd2key.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = pwd2key.h; path = SSZipArchive/minizip/aes/pwd2key.h; sourceTree = "<group>"; };
 		B512A7CF2DCF809FFD0BD4965C14BCCE /* TXSakuraLabel.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = TXSakuraLabel.m; path = SakuraKit/Components/TXSakuraLabel.m; sourceTree = "<group>"; };
 		B5948CE10A48497A90749FDC4D1B0385 /* MJRefresh-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "MJRefresh-dummy.m"; sourceTree = "<group>"; };
 		B5D9FD2DB055A037C1C86FB04BC9066B /* MJRefresh-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "MJRefresh-Info.plist"; sourceTree = "<group>"; };
 		B60DAEEFEBE271EEE7090C6E4F9C523B /* Pods-TKUISDK_iOS_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-TKUISDK_iOS_Example.release.xcconfig"; sourceTree = "<group>"; };
-		B6EF409DAA5A098E8EB91A9FA28B6F3B /* TKUISDK_iOS.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = TKUISDK_iOS.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		B8D399E2593267C96A1725FED5138C2A /* SakuraKit-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "SakuraKit-prefix.pch"; sourceTree = "<group>"; };
 		B921FBD1298F4CA1924E18407A590AE5 /* ioapi_mem.c */ = {isa = PBXFileReference; includeInIndex = 1; name = ioapi_mem.c; path = SSZipArchive/minizip/ioapi_mem.c; sourceTree = "<group>"; };
 		BA04C386E99D4DF518BEE1D6E7C31C31 /* Pods-TKUISDK_iOS_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-TKUISDK_iOS_Tests-dummy.m"; sourceTree = "<group>"; };
@@ -513,6 +512,7 @@
 		D2BCCBC298BB30FE922344F61F4A81CE /* TXSakuraProgress.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = TXSakuraProgress.h; path = SakuraKit/Components/TXSakuraProgress.h; sourceTree = "<group>"; };
 		D459A1C1759A4D5A2EBDB7CA40C7A8E0 /* Bugly.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = Bugly.debug.xcconfig; sourceTree = "<group>"; };
 		D4A199A8FBFC6E62FE28B87CA54D3C8C /* zip.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = zip.h; path = SSZipArchive/minizip/zip.h; sourceTree = "<group>"; };
+		D6C1A5531B51BC94A95CA93FF969D268 /* TKRoomSDK.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = TKRoomSDK.framework; path = TKUISDK_iOS/Frameworks/TKRoomSDK.framework; sourceTree = "<group>"; };
 		D8F89D7ED3BDCE7A7A04AB3C43C983B6 /* Masonry.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = Masonry.h; path = Masonry/Masonry.h; sourceTree = "<group>"; };
 		DC25FEE8D44CB8D61BAFB4882D297B7B /* TXSakuraImageView.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = TXSakuraImageView.h; path = SakuraKit/Components/TXSakuraImageView.h; sourceTree = "<group>"; };
 		DDB6AA95E74075A56C1C80E915A7B6E9 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
@@ -522,12 +522,10 @@
 		E1EEC941002640389247A63B5F630313 /* MJRefresh.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = MJRefresh.release.xcconfig; sourceTree = "<group>"; };
 		E49D6D248DD1CEE584E6776B9164A1B2 /* MJRefresh.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = MJRefresh.framework; path = MJRefresh.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		E6293AD8AD462057EB8C71E8148188BE /* Pods-TKUISDK_iOS_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-TKUISDK_iOS_Example-umbrella.h"; sourceTree = "<group>"; };
-		E76EC97DF730A9CA5BF75A204C24539F /* TKRoomSDK.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = TKRoomSDK.framework; path = TKUISDK_iOS/Frameworks/TKRoomSDK.framework; sourceTree = "<group>"; };
 		E9F46CAA6F7D3D2A8FBFD62A9EFFD7F7 /* TXSakuraBarItem.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = TXSakuraBarItem.h; path = SakuraKit/Components/TXSakuraBarItem.h; sourceTree = "<group>"; };
 		EAA44A2EC38C7A5732E59D9BBA5D02F5 /* brg_endian.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = brg_endian.h; path = SSZipArchive/minizip/aes/brg_endian.h; sourceTree = "<group>"; };
-		EABDCC4F11D151B2635A2F42C3CF69F8 /* TKWhiteBoard.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = TKWhiteBoard.framework; path = TKUISDK_iOS/Frameworks/TKWhiteBoard.framework; sourceTree = "<group>"; };
 		EAE25A7943FF7C8777FD562B106F5210 /* MJRefreshAutoGifFooter.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = MJRefreshAutoGifFooter.m; path = MJRefresh/Custom/Footer/Auto/MJRefreshAutoGifFooter.m; sourceTree = "<group>"; };
-		EC35CA8C4EA14AEDDCBF44B1E4C993D0 /* TKUISDK_iOS.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = TKUISDK_iOS.release.xcconfig; sourceTree = "<group>"; };
+		EB4750908F286ECAC2E709584F643034 /* TKUISDK_iOS.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = TKUISDK_iOS.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		ED847DFFC24840458308CA801DC3F453 /* TXSakuraNavigationBar.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = TXSakuraNavigationBar.h; path = SakuraKit/Components/TXSakuraNavigationBar.h; sourceTree = "<group>"; };
 		EFC43B31AD7EA61EC11445128B17CCB1 /* NSLayoutConstraint+MASDebugAdditions.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "NSLayoutConstraint+MASDebugAdditions.m"; path = "Masonry/NSLayoutConstraint+MASDebugAdditions.m"; sourceTree = "<group>"; };
 		F0EFA3BCE3BB2FFF38CF7986299791AD /* MJRefreshAutoFooter.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = MJRefreshAutoFooter.m; path = MJRefresh/Base/MJRefreshAutoFooter.m; sourceTree = "<group>"; };
@@ -537,7 +535,6 @@
 		F58DBEC94135913D7E7A0C57A0366618 /* TXSakuraView.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = TXSakuraView.h; path = SakuraKit/Components/TXSakuraView.h; sourceTree = "<group>"; };
 		F7A0ECB99D1B283C3D4060797E37C664 /* Pods-TKUISDK_iOS_Example-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-TKUISDK_iOS_Example-resources.sh"; sourceTree = "<group>"; };
 		F7DB37633C526DF93A5242BC97744E52 /* MJRefreshBackFooter.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MJRefreshBackFooter.h; path = MJRefresh/Base/MJRefreshBackFooter.h; sourceTree = "<group>"; };
-		F83E597763691966B5E93FCEF8EEDC5B /* TKUISDK_iOS.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = TKUISDK_iOS.debug.xcconfig; sourceTree = "<group>"; };
 		F8522D16FF4FA2F10E5E4D9B246D6288 /* TXSakuraSwitch.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = TXSakuraSwitch.h; path = SakuraKit/Components/TXSakuraSwitch.h; sourceTree = "<group>"; };
 		F8DD24DD63F087CFECEF2C703E0D0172 /* MJRefreshConst.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MJRefreshConst.h; path = MJRefresh/MJRefreshConst.h; sourceTree = "<group>"; };
 		F91C4D3A1FCDA1A9DC9A02D029EFBCE7 /* TXSakura.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = TXSakura.m; path = SakuraKit/Base/TXSakura.m; sourceTree = "<group>"; };
@@ -601,39 +598,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		051DCA4952E6122159F095F236380310 /* Pod */ = {
+		2A17A5E8996C68A1DF4D18C93A43953C /* Support Files */ = {
 			isa = PBXGroup;
 			children = (
-				0940EC0A0FFC2D261C76AEAA7F74B413 /* LICENSE */,
-				62304C95245A78CBD2770EE6E4DF2C1D /* README.md */,
-				B6EF409DAA5A098E8EB91A9FA28B6F3B /* TKUISDK_iOS.podspec */,
-			);
-			name = Pod;
-			sourceTree = "<group>";
-		};
-		0CEF9C7D2A6384DA071102B9FD4888A4 /* Support Files */ = {
-			isa = PBXGroup;
-			children = (
-				F83E597763691966B5E93FCEF8EEDC5B /* TKUISDK_iOS.debug.xcconfig */,
-				EC35CA8C4EA14AEDDCBF44B1E4C993D0 /* TKUISDK_iOS.release.xcconfig */,
+				316FA8ABAE43DB4AAD2B8497A9555CCF /* TKUISDK_iOS.debug.xcconfig */,
+				4574FE9D786421614DCACACB28A546E9 /* TKUISDK_iOS.release.xcconfig */,
 			);
 			name = "Support Files";
 			path = "Example/Pods/Target Support Files/TKUISDK_iOS";
-			sourceTree = "<group>";
-		};
-		291D83D604D1221F54EFF7FEE8E133B4 /* TKUISDK_iOS */ = {
-			isa = PBXGroup;
-			children = (
-				096A880BD27BC16FDCFA5C6BD239379D /* TKEmoji.bundle */,
-				4D872391E7853D0C41D03DD34E3648E1 /* TKImageRe.bundle */,
-				4E04493229E263114BF462A80AD33BA7 /* TKResources.bundle */,
-				42E840F4133F56C3C137FF69FB3BB196 /* TKWhiteBoardResources.bundle */,
-				836D42253C9DDF57ECB2E8FF44F74BFD /* Frameworks */,
-				051DCA4952E6122159F095F236380310 /* Pod */,
-				0CEF9C7D2A6384DA071102B9FD4888A4 /* Support Files */,
-			);
-			name = TKUISDK_iOS;
-			path = ../..;
 			sourceTree = "<group>";
 		};
 		3164DFA99602590BDB8870A78FC5D4D1 /* Pods-TKUISDK_iOS_Tests */ = {
@@ -717,12 +689,24 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		4B3559F3A8252EA28ED2640F09CA3BBC /* Development Pods */ = {
+		6AF4E1E9C77EF309236CCBA8DFD3D264 /* Development Pods */ = {
 			isa = PBXGroup;
 			children = (
-				291D83D604D1221F54EFF7FEE8E133B4 /* TKUISDK_iOS */,
+				6FA656C9FDE4076997AD1D6BDA53B627 /* TKUISDK_iOS */,
 			);
 			name = "Development Pods";
+			sourceTree = "<group>";
+		};
+		6FA656C9FDE4076997AD1D6BDA53B627 /* TKUISDK_iOS */ = {
+			isa = PBXGroup;
+			children = (
+				694541337E3909461EB6E7F9AB4286C8 /* TKResources.bundle */,
+				96907BC76479FEFD39F5D86691CFB6A8 /* Frameworks */,
+				ECFBBA7B7413365D17DF203FD06CA983 /* Pod */,
+				2A17A5E8996C68A1DF4D18C93A43953C /* Support Files */,
+			);
+			name = TKUISDK_iOS;
+			path = ../..;
 			sourceTree = "<group>";
 		};
 		74F28EA6EEDE177A11829C563AE6FD0D /* Frameworks */ = {
@@ -750,17 +734,6 @@
 				3164DFA99602590BDB8870A78FC5D4D1 /* Pods-TKUISDK_iOS_Tests */,
 			);
 			name = "Targets Support Files";
-			sourceTree = "<group>";
-		};
-		836D42253C9DDF57ECB2E8FF44F74BFD /* Frameworks */ = {
-			isa = PBXGroup;
-			children = (
-				512D94EA0B531803109188D738FF3FF7 /* TKIJKMediaFramework.framework */,
-				E76EC97DF730A9CA5BF75A204C24539F /* TKRoomSDK.framework */,
-				393A57C07B4FD6788896353794622BBB /* TKUISDK.framework */,
-				EABDCC4F11D151B2635A2F42C3CF69F8 /* TKWhiteBoard.framework */,
-			);
-			name = Frameworks;
 			sourceTree = "<group>";
 		};
 		84188299941F689D82E11B2431C3B2E9 /* Support Files */ = {
@@ -820,6 +793,17 @@
 			path = SSZipArchive;
 			sourceTree = "<group>";
 		};
+		96907BC76479FEFD39F5D86691CFB6A8 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				B26341E306C2F7D46CFE41C7F8C9E20C /* TKIJKMediaFramework.framework */,
+				D6C1A5531B51BC94A95CA93FF969D268 /* TKRoomSDK.framework */,
+				4F984F6AB6F8201CC3D4F6C7DD6D93D2 /* TKUISDK.framework */,
+				34967BBC24BB657D7BC2E40A876D0A60 /* TKWhiteBoard.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 		9F76099EC5615B82C466F6F8DDBA12FE /* Support Files */ = {
 			isa = PBXGroup;
 			children = (
@@ -877,7 +861,7 @@
 			isa = PBXGroup;
 			children = (
 				9D940727FF8FB9C785EB98E56350EF41 /* Podfile */,
-				4B3559F3A8252EA28ED2640F09CA3BBC /* Development Pods */,
+				6AF4E1E9C77EF309236CCBA8DFD3D264 /* Development Pods */,
 				74F28EA6EEDE177A11829C563AE6FD0D /* Frameworks */,
 				C83CB98877E25FA521672EE4A8FF81EE /* Pods */,
 				3D523CEC8C68D24533C8F370DD9833E7 /* Products */,
@@ -1011,6 +995,16 @@
 			);
 			name = "Support Files";
 			path = "../Target Support Files/SakuraKit";
+			sourceTree = "<group>";
+		};
+		ECFBBA7B7413365D17DF203FD06CA983 /* Pod */ = {
+			isa = PBXGroup;
+			children = (
+				4FA69E0108BE710BD50BF48DCA6ABE67 /* LICENSE */,
+				9F969F08F1C0CEE901DF1BB2A05BA185 /* README.md */,
+				EB4750908F286ECAC2E709584F643034 /* TKUISDK_iOS.podspec */,
+			);
+			name = Pod;
 			sourceTree = "<group>";
 		};
 		ED8A398565406AEAF0E989FCA40E51BC /* Frameworks */ = {
@@ -1243,7 +1237,7 @@
 			buildRules = (
 			);
 			dependencies = (
-				661739A83375BD6B7367D82DAD02A6A0 /* PBXTargetDependency */,
+				5FEE0A4C79A4C45CB26472FBA29A1756 /* PBXTargetDependency */,
 			);
 			name = SakuraKit;
 			productName = SakuraKit;
@@ -1262,7 +1256,7 @@
 			buildRules = (
 			);
 			dependencies = (
-				4829A76024E4CA60247A576A99EAF781 /* PBXTargetDependency */,
+				5354627651C632D7B3565AE682CDF56F /* PBXTargetDependency */,
 			);
 			name = "Pods-TKUISDK_iOS_Tests";
 			productName = "Pods-TKUISDK_iOS_Tests";
@@ -1281,13 +1275,13 @@
 			buildRules = (
 			);
 			dependencies = (
-				396CACF3E9EA40C2807C4BB8FE50C98F /* PBXTargetDependency */,
-				120F6FD24FD0E6EFAE4F5AE08B653821 /* PBXTargetDependency */,
-				3DFC7A2CD3B47566CFC7D204EF571B4A /* PBXTargetDependency */,
-				6A31D50F05862C2253661E937E5F2EB2 /* PBXTargetDependency */,
-				F5C14D450CA853ABAAAFFF51F1F2E784 /* PBXTargetDependency */,
-				F69AF0FC433E81EF13F641A99D9001D9 /* PBXTargetDependency */,
-				86E056F03BAAEA352F5623B63815FB67 /* PBXTargetDependency */,
+				6D8623644FE3797FC6CF2B6A77061CDC /* PBXTargetDependency */,
+				EB14466E684420E7DA262F301435CED6 /* PBXTargetDependency */,
+				0B192AF37531C88062CC34DE1589A776 /* PBXTargetDependency */,
+				33EFFF990D0133B2C76AADDC57E4557A /* PBXTargetDependency */,
+				FBB5CB643FE65541180FB77FEEAF1650 /* PBXTargetDependency */,
+				C3978828F1F3FADB601EED6997258ABE /* PBXTargetDependency */,
+				70622FE7B9CC88DA84BFCD1152A32765 /* PBXTargetDependency */,
 			);
 			name = "Pods-TKUISDK_iOS_Example";
 			productName = "Pods-TKUISDK_iOS_Example";
@@ -1513,102 +1507,102 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		0C5CA5BBF7FCC9B1A1AF8F6BF71CBBEB /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			name = SakuraKit;
-			target = 9A64693138006328B382009763F5C580 /* SakuraKit */;
-			targetProxy = F04C046AB7283D6F8C0D37C4CB8D2B68 /* PBXContainerItemProxy */;
-		};
-		120F6FD24FD0E6EFAE4F5AE08B653821 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			name = MJRefresh;
-			target = 6868056D761E163D10FDAF8CF1C4D9B8 /* MJRefresh */;
-			targetProxy = BA4817E25D42171AF10C31A70B313EC8 /* PBXContainerItemProxy */;
-		};
-		396CACF3E9EA40C2807C4BB8FE50C98F /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			name = Bugly;
-			target = 4A68CFD979D413A619DF631BB121D98F /* Bugly */;
-			targetProxy = 48583E8C433140367E25857BFC467D01 /* PBXContainerItemProxy */;
-		};
-		3DFC7A2CD3B47566CFC7D204EF571B4A /* PBXTargetDependency */ = {
+		0B192AF37531C88062CC34DE1589A776 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = Masonry;
 			target = 55AF53E6C77A10ED4985E04D74A8878E /* Masonry */;
-			targetProxy = A92A7A56EAE5CC0D7A7AE72CD29E43A3 /* PBXContainerItemProxy */;
+			targetProxy = FA9010CDE5534883AFCCA918AFA99065 /* PBXContainerItemProxy */;
 		};
-		4829A76024E4CA60247A576A99EAF781 /* PBXTargetDependency */ = {
+		1A64B842CF14A6764BE37FDA6F25DF26 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = MJRefresh;
+			target = 6868056D761E163D10FDAF8CF1C4D9B8 /* MJRefresh */;
+			targetProxy = 75109476AC416448A4FCBD4A0349CB72 /* PBXContainerItemProxy */;
+		};
+		33EFFF990D0133B2C76AADDC57E4557A /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = SSZipArchive;
+			target = F60E38364AFF5E1349FF07415B944396 /* SSZipArchive */;
+			targetProxy = C2127AE7EE64775852A2CB36FC99CB6C /* PBXContainerItemProxy */;
+		};
+		5354627651C632D7B3565AE682CDF56F /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = "Pods-TKUISDK_iOS_Example";
 			target = DDF1CF57B65F46C60F28DBAE4D56D370 /* Pods-TKUISDK_iOS_Example */;
-			targetProxy = 8777C063444DA62CD491A3E6F1FB5AFC /* PBXContainerItemProxy */;
+			targetProxy = 867811345934E28410A5440643D9AF5C /* PBXContainerItemProxy */;
 		};
-		50C9D2E06D0534D2BE81F5F28DD03F36 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			name = UMCCommon;
-			target = 6F6B630FA5213AB083E7CEF1F986FE44 /* UMCCommon */;
-			targetProxy = D419185DB18A889288F343881F79290D /* PBXContainerItemProxy */;
-		};
-		661739A83375BD6B7367D82DAD02A6A0 /* PBXTargetDependency */ = {
+		5FEE0A4C79A4C45CB26472FBA29A1756 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = SSZipArchive;
 			target = F60E38364AFF5E1349FF07415B944396 /* SSZipArchive */;
-			targetProxy = 6FAD7D630B7F7FD343B6AD71F1FB1983 /* PBXContainerItemProxy */;
+			targetProxy = C51408FCC90C0FE53DA8A9DF02484185 /* PBXContainerItemProxy */;
 		};
-		6A31D50F05862C2253661E937E5F2EB2 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			name = SSZipArchive;
-			target = F60E38364AFF5E1349FF07415B944396 /* SSZipArchive */;
-			targetProxy = 78C25ACBA6D55DEAF33F27C4189D2537 /* PBXContainerItemProxy */;
-		};
-		6E705B6E36958B8701BE63781447E946 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			name = SSZipArchive;
-			target = F60E38364AFF5E1349FF07415B944396 /* SSZipArchive */;
-			targetProxy = AB905FB46A44997298D17D48FEB2EA3E /* PBXContainerItemProxy */;
-		};
-		86E056F03BAAEA352F5623B63815FB67 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			name = UMCCommon;
-			target = 6F6B630FA5213AB083E7CEF1F986FE44 /* UMCCommon */;
-			targetProxy = 67CADED3E74B04FE66E54DC8610EA7CF /* PBXContainerItemProxy */;
-		};
-		A5B17DFC6C1AF26551322C652992A975 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			name = MJRefresh;
-			target = 6868056D761E163D10FDAF8CF1C4D9B8 /* MJRefresh */;
-			targetProxy = B1FD9014E7D63EE24D670AE95EAE872E /* PBXContainerItemProxy */;
-		};
-		C207D7C21280C87B8E90C7079CA7A1D7 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			name = Masonry;
-			target = 55AF53E6C77A10ED4985E04D74A8878E /* Masonry */;
-			targetProxy = FEF1BA6316065404B0F28B9B6B783940 /* PBXContainerItemProxy */;
-		};
-		D0DEE707B3F2C9E4ED242E4FD5EC317D /* PBXTargetDependency */ = {
+		6D8623644FE3797FC6CF2B6A77061CDC /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = Bugly;
 			target = 4A68CFD979D413A619DF631BB121D98F /* Bugly */;
-			targetProxy = 47AF8BB402A7F7FB06221312BAAB12E0 /* PBXContainerItemProxy */;
+			targetProxy = 98CEF53195449D7558F4D1D29B5D495B /* PBXContainerItemProxy */;
 		};
-		F5C14D450CA853ABAAAFFF51F1F2E784 /* PBXTargetDependency */ = {
+		70622FE7B9CC88DA84BFCD1152A32765 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			name = SakuraKit;
-			target = 9A64693138006328B382009763F5C580 /* SakuraKit */;
-			targetProxy = 3224BCCC464D66D43E8FF0576B30F399 /* PBXContainerItemProxy */;
+			name = UMCCommon;
+			target = 6F6B630FA5213AB083E7CEF1F986FE44 /* UMCCommon */;
+			targetProxy = 6DEA5D87E41D669FD6F786EA3785C9E6 /* PBXContainerItemProxy */;
 		};
-		F69AF0FC433E81EF13F641A99D9001D9 /* PBXTargetDependency */ = {
+		7812FEC353754CFA2C4AEA5C8310A725 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = UMCCommon;
+			target = 6F6B630FA5213AB083E7CEF1F986FE44 /* UMCCommon */;
+			targetProxy = 791FA0D6E678E64628767DE1A95091FE /* PBXContainerItemProxy */;
+		};
+		8C85930A5F56A1D21FD092B37DCB46F4 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = SSZipArchive;
+			target = F60E38364AFF5E1349FF07415B944396 /* SSZipArchive */;
+			targetProxy = 3DE0D2959DBBB10B140E13663B654D45 /* PBXContainerItemProxy */;
+		};
+		C3978828F1F3FADB601EED6997258ABE /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = TKUISDK_iOS;
 			target = 48EADA0AC127FBF90B5C60EDFA73B53E /* TKUISDK_iOS */;
-			targetProxy = 739B7123883E52D092BA172F4E2E8550 /* PBXContainerItemProxy */;
+			targetProxy = 4FE281FEE6FE061CF68F05BD14E7128B /* PBXContainerItemProxy */;
+		};
+		CB649B78C631EA876D97BE7A12A0B54C /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = Masonry;
+			target = 55AF53E6C77A10ED4985E04D74A8878E /* Masonry */;
+			targetProxy = B638A6D5C3404523D5275689EE299747 /* PBXContainerItemProxy */;
+		};
+		E57BF71936527A84B68AE7AB9F095236 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = SakuraKit;
+			target = 9A64693138006328B382009763F5C580 /* SakuraKit */;
+			targetProxy = D70FAA57F6974116FE1AF895810918C8 /* PBXContainerItemProxy */;
+		};
+		E5E46AFF545C090513D2152C0F449C14 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = Bugly;
+			target = 4A68CFD979D413A619DF631BB121D98F /* Bugly */;
+			targetProxy = 0FB83FE47A978E95D5A4DD5F4636A1F4 /* PBXContainerItemProxy */;
+		};
+		EB14466E684420E7DA262F301435CED6 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = MJRefresh;
+			target = 6868056D761E163D10FDAF8CF1C4D9B8 /* MJRefresh */;
+			targetProxy = EC4018FBD4ACBAF1C520629442F335BB /* PBXContainerItemProxy */;
+		};
+		FBB5CB643FE65541180FB77FEEAF1650 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = SakuraKit;
+			target = 9A64693138006328B382009763F5C580 /* SakuraKit */;
+			targetProxy = 84AD01D3A4F539D4C713F24D9F445D29 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
 		00D9A5D4E8B4BD237CA7D357D057F87E /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = F83E597763691966B5E93FCEF8EEDC5B /* TKUISDK_iOS.debug.xcconfig */;
+			baseConfigurationReference = 316FA8ABAE43DB4AAD2B8497A9555CCF /* TKUISDK_iOS.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
@@ -1621,7 +1615,7 @@
 		};
 		15910B185E8B369BDDF8CA1AEC49E8F3 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = EC35CA8C4EA14AEDDCBF44B1E4C993D0 /* TKUISDK_iOS.release.xcconfig */;
+			baseConfigurationReference = 4574FE9D786421614DCACACB28A546E9 /* TKUISDK_iOS.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
@@ -1696,19 +1690,6 @@
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 5.0;
 				SYMROOT = "${SRCROOT}/../build";
-			};
-			name = Debug;
-		};
-		2A63A42F064BA27B45575DA26962A0F1 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 82BD54ED7481A4EB84D4A16840F763FA /* UMCCommon.debug.xcconfig */;
-			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				SDKROOT = iphoneos;
-				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
@@ -1802,6 +1783,19 @@
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		575AB8EB8E1B6A29B2CB43370F2980B0 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 82BD54ED7481A4EB84D4A16840F763FA /* UMCCommon.debug.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
@@ -2081,20 +2075,6 @@
 			};
 			name = Release;
 		};
-		CE58F92F1C9BBB8FBABFE3407F778EF0 /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 6A1617752EA4AB0E9E254936C007C38F /* UMCCommon.release.xcconfig */;
-			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				SDKROOT = iphoneos;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
-			};
-			name = Release;
-		};
 		D1069AD30DBCEA2D770B354EA57FC7FE /* Release */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 3CB69C6DE00A3786785EFB037FD9ED42 /* Masonry.release.xcconfig */;
@@ -2156,6 +2136,20 @@
 				VALIDATE_PRODUCT = YES;
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		E2CC76761635B9C986FDD12A307C0611 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 6A1617752EA4AB0E9E254936C007C38F /* UMCCommon.release.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
 			};
 			name = Release;
 		};
@@ -2264,11 +2258,11 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		BE2403AC011E8873286F496FB08C7D0C /* Build configuration list for PBXAggregateTarget "UMCCommon" */ = {
+		B925A629CE0744A04719D98366FA0807 /* Build configuration list for PBXAggregateTarget "UMCCommon" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				2A63A42F064BA27B45575DA26962A0F1 /* Debug */,
-				CE58F92F1C9BBB8FBABFE3407F778EF0 /* Release */,
+				575AB8EB8E1B6A29B2CB43370F2980B0 /* Debug */,
+				E2CC76761635B9C986FDD12A307C0611 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
