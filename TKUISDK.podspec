@@ -7,9 +7,9 @@
 #
 
 Pod::Spec.new do |s|
-  s.name             = 'TKUISDK'
-  s.version          = '4.2.5'
-  s.summary          = 'A short description of TKUISDK.'
+  s.name             = 'TKUISDK_iOS'
+  s.version          = '4.2.6'
+  s.summary          = 'A short description of TKUISDK_iOS.'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -20,20 +20,20 @@ Pod::Spec.new do |s|
   s.description      = <<-DESC
 TODO: Add long description of the pod here.
                        DESC
-                       
-  s.homepage         = 'https://github.com/xierwanasi/TKUISDK'
+
+  s.homepage         = 'https://github.com/tksdk@talk-cloud.com/TKUISDK_iOS'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'tksdk@talk-cloud.com' => 'xlangzhao@sina.com' }
-  s.source           = { :git => 'https://github.com/xierwanasi/TKUISDK.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/Talk-Cloud/TKUISDK_iOS.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '9.0'
 
   # s.source_files = 'TKUISDK_iOS/Classes/**/*'
   
-  s.ios.vendored_frameworks = 'TKUISDK/Frameworks/*.framework'
-  s.resources = ['TKUISDK/Bundles/*.bundle']
+  s.ios.vendored_frameworks = 'TKUISDK_iOS/Frameworks/*.framework'
+  s.resources = ['TKUISDK_iOS/Bundles/*.bundle']
   s.static_framework = true
   
   
