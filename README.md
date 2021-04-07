@@ -34,8 +34,5 @@ tksdk@talk-cloud.com
 
 TKUISDK_iOS is available under the MIT license. See the LICENSE file for more info.
 
-
+## 注意
 修改UMCCommon版本和官网一致 防止崩溃
-
-```rubyU
-```ruby
