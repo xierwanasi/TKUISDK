@@ -1,9 +1,9 @@
-# TKUISDK_iOS
+# TKUISDK
 
-[![CI Status](https://img.shields.io/travis/tksdk@talk-cloud.com/TKUISDK_iOS.svg?style=flat)](https://travis-ci.org/tksdk@talk-cloud.com/TKUISDK_iOS)
-[![Version](https://img.shields.io/cocoapods/v/TKUISDK_iOS.svg?style=flat)](https://cocoapods.org/pods/TKUISDK_iOS)
-[![License](https://img.shields.io/cocoapods/l/TKUISDK_iOS.svg?style=flat)](https://cocoapods.org/pods/TKUISDK_iOS)
-[![Platform](https://img.shields.io/cocoapods/p/TKUISDK_iOS.svg?style=flat)](https://cocoapods.org/pods/TKUISDK_iOS)
+[![CI Status](https://img.shields.io/travis/wangpeng/TKUISDK.svg?style=flat)](https://travis-ci.org/wangpeng/TKUISDK)
+[![Version](https://img.shields.io/cocoapods/v/TKUISDK.svg?style=flat)](https://cocoapods.org/pods/TKUISDK)
+[![License](https://img.shields.io/cocoapods/l/TKUISDK.svg?style=flat)](https://cocoapods.org/pods/TKUISDK)
+[![Platform](https://img.shields.io/cocoapods/p/TKUISDK.svg?style=flat)](https://cocoapods.org/pods/TKUISDK)
 
 ## Example
 
@@ -11,28 +11,19 @@ To run the example project, clone the repo, and run `pod install` from the Examp
 
 ## Requirements
 
-Privacy - Camera Usage Description  
-Privacy - Microphone Usage Description  
-Privacy - Photo Library Additions Usage Description  
-Privacy - Photo Library Usage Description  
-Privacy - Location When In Use Usage Description
-
 ## Installation
 
-TKUISDK_iOS is available through [CocoaPods](https://cocoapods.org). To install
+TKUISDK is available through [CocoaPods](https://cocoapods.org). To install
 it, simply add the following line to your Podfile:
 
 ```ruby
-pod 'TKUISDK_iOS'
+pod 'TKUISDK'
 ```
 
 ## Author
 
-tksdk@talk-cloud.com
+wangpeng, wangpengqqd@163.com
 
 ## License
 
-TKUISDK_iOS is available under the MIT license. See the LICENSE file for more info.
-
-## 注意
-修改UMCCommon版本和官网一致 防止崩溃
+TKUISDK is available under the MIT license. See the LICENSE file for more info.

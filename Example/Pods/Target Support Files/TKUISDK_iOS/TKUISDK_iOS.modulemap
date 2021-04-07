@@ -1,6 +1,0 @@
-framework module TKUISDK_iOS {
-  umbrella header "TKUISDK_iOS-umbrella.h"
-
-  export *
-  module * { export * }
-}
